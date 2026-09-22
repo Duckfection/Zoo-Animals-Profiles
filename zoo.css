@@ -1,0 +1,34 @@
+<style>
+    body {
+        background-color: rgb(27, 160, 27);
+        margin: 0;
+    }
+
+nav#main-nav {
+      background-color: rgb();
+}
+
+nav#main-nav a {
+      background-color: rgb()
+}
+
+#main-nav a {
+        padding: 1em;
+        display: inline-block;
+        color: (color)
+        font size: 1.5rem;
+        font family: (roboto);
+        text decoration:  none;
+        Transition: all ease 300ms;
+}
+
+#main-nav a:hover {
+        background color: rgb ()
+        Color: (color)
+}
+
+#main-nav {
+
+}
+
+</style>
