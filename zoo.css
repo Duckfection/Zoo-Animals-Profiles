@@ -1,34 +1,27 @@
-<style>
-    body {
-        background-color: rgb(27, 160, 27);
-        margin: 0;
-    }
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
 
 nav#main-nav {
-      background-color: rgb();
+    background-color: rgb(0, 167, 14);
 }
 
 nav#main-nav a {
-      background-color: rgb()
+    background-color: transparent;
 }
 
 #main-nav a {
-        padding: 1em;
-        display: inline-block;
-        color: (color)
-        font size: 1.5rem;
-        font family: (roboto);
-        text decoration:  none;
-        Transition: all ease 300ms;
+    padding: 1em;
+    display: inline-block;
+    color: white;
+    font-size: 1.5rem;
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    transition: all ease 300ms;
 }
 
 #main-nav a:hover {
-        background color: rgb ()
-        Color: (color)
+    background-color: rgb(0, 120, 0);
+    color: white;
 }
-
-#main-nav {
-
-}
-
-</style>
